@@ -1,8 +1,8 @@
 
 
 {
-	"ip":"sheep.aternos.me",
+	"ip":"sellytzy.aternos.me",
 	"port": "17057",
 	"name": "BOT",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
